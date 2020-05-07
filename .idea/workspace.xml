@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6455519-38c6-431c-a27f-fd7385933278" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Basketball.db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Basketball.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Basketball.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Basketball.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Seller: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Basketball.db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Ticket: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Basketball" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Basketball" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Basketball" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqAmslplmve11OtaDQhP6rfvZR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Curs8/Curs8/ChatProtobuff_v3/ChatProtobuff_v3" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="basketball" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mihalutf\IdeaProjects\Basketball\src\main\resources" />
+      <recent name="C:\Users\Filip\IdeaProjects\Basketball\model\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basketball.Main" />
+      <module name="Basketball.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Basketball [buildDependents]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildDependents" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Basketball [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Basketball [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Basketball [clean]" />
+        <item itemvalue="Gradle.Basketball [build]" />
+        <item itemvalue="Gradle.Basketball [buildDependents]" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:Basketball.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:Basketball.db" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@79ddbc2c" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6455519-38c6-431c-a27f-fd7385933278" name="Default Changelist" comment="" />
+      <created>1583659912648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583659912648</updated>
+      <workItem from="1583659916889" duration="732000" />
+      <workItem from="1583662062330" duration="2462000" />
+      <workItem from="1583670256634" duration="1628000" />
+      <workItem from="1583672593777" duration="1687000" />
+      <workItem from="1583675659879" duration="1411000" />
+      <workItem from="1583678348185" duration="15723000" />
+      <workItem from="1584959863391" duration="661000" />
+      <workItem from="1584967258425" duration="16472000" />
+      <workItem from="1585158311008" duration="16396000" />
+      <workItem from="1585846018901" duration="13000" />
+      <workItem from="1587216475022" duration="690000" />
+      <workItem from="1587369622660" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583676157725">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1583676157725" />
+    <state x="-1201" y="132" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583739997113">
+      <screen x="-1920" y="-191" width="1920" height="1040" />
+    </state>
+    <state x="-1201" y="132" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583739997113" />
+    <state x="-874" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1584975783951">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-874" y="166" key="#com.intellij.ide.util.MemberChooser/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584975783951" />
+    <state x="-1234" y="-77" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583744451184" />
+    <state x="488" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583680436198" />
+    <state x="-1023" y="375" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584981601679">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-1023" y="375" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584981601679" />
+    <state x="-949" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584981967915">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-949" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584981967915" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1583680328431" />
+    <state x="651" y="129" key="FileChooserDialogImpl" timestamp="1587369705072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-899" y="176" key="FileChooserDialogImpl/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584986510095" />
+    <state x="651" y="129" key="FileChooserDialogImpl/-1360.86.1360.728/0.0.1920.1040@0.0.1920.1040" timestamp="1587216563113" />
+    <state x="463" y="90" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583676127581" />
+    <state x="651" y="129" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587369705072" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1585634576610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584987271808" />
+    <state width="1877" height="310" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189481" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583678592759" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585634576610" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1585634576609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584987271808" />
+    <state width="1877" height="310" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189481" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583678592759" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585634576609" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1585634576609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584987271808" />
+    <state width="1877" height="310" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189481" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583678592759" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585634576609" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1585634576609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584987271808" />
+    <state width="1877" height="310" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189481" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583678592759" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585634576609" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1585413318301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.bottom/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584984078869" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189371" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585413318301" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1585413318301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.center/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584984078868" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189371" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585413318301" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1585413318301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.left/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584984078868" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189371" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585413318301" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1585413318301">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1317" height="223" key="GridCell.Tab.1.right/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584984078868" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/-1920.-191.1920.1040@-1920.-191.1920.1040" timestamp="1583747189371" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585413318301" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1583676179983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1583676179983" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1583674949008">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583674949008" />
+    <state x="399" y="5" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1583670940607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="399" y="5" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1583670940607" />
+    <state x="-983" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1584967261962">
+      <screen x="-1360" y="86" width="1360" height="728" />
+    </state>
+    <state x="-983" y="274" key="com.intellij.ide.util.TipDialog/-1360.86.1360.728/0.0.1920.1040@-1360.86.1360.728" timestamp="1584967261962" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583675663974" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583660139759">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583660139759" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585409800135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585409800135" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/model/src/main/java/repository/TicketRepository.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/model/src/main/java/repository/TicketRepository.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/basketball/controller/MatchesManagementController.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/basketball/controller/MatchesManagementController.java</url>
+          <line>119</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

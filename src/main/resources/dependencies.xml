@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util.xsd">
+
+
+    <util:properties id="jdbcProps" location="classpath:bd.config"/>
+
+    <bean id="sellerRepo" class="repository.SellerRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id="sellerService" class="service.SellerService">
+        <constructor-arg ref="sellerRepo"/>
+    </bean>
+
+    <bean id="clientRepo" class="repository.ClientRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id="clientService" class="service.ClientService">
+        <constructor-arg ref="clientRepo"/>
+    </bean>
+
+    <bean id="matchRepo" class="repository.MatchRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id="matchService" class="service.MatchService">
+        <constructor-arg ref="matchRepo"/>
+    </bean>
+
+    <bean id="ticketRepo" class="repository.TicketRepository">
+        <constructor-arg ref="jdbcProps"/>
+    </bean>
+
+    <bean id="ticketService" class="service.TicketService">
+        <constructor-arg ref="ticketRepo"/>
+    </bean>
+</beans>
